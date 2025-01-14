@@ -1,4 +1,4 @@
-# blogger
+blogger
 copia de seguridad del blogger
 mateo moreira
 segundo ¨C¨ MATUTINO
